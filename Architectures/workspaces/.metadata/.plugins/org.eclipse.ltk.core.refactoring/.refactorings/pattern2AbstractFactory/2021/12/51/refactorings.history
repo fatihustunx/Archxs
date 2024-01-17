@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;pattern2AbsractFactory&apos; to &apos;pattern2AbstractFactory&apos;&#x0D;&#x0A;- Original project: &apos;pattern2AbstractFactory&apos;&#x0D;&#x0A;- Original element: &apos;pattern2AbstractFactory/src/pattern2AbsractFactory&apos;&#x0D;&#x0A;- Renamed element: &apos;pattern2AbstractFactory/src/pattern2AbstractFactory&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;pattern2AbsractFactory&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;pattern2AbsractFactory" name="pattern2AbstractFactory" qualified="false" references="true" stamp="1639833526512" textual="false" version="1.0"/>
+</session>

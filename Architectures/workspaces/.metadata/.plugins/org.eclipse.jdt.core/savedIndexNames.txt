@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+C:\Users\wista\Desktop\Yazýlým Tasarýmý Ve Mimarisi\workspaces\.metadata\.plugins\org.eclipse.jdt.core
+23421007.index
+648185823.index
+3650751795.index
+918052255.index
+1850857090.index
+3604618925.index
+858178207.index
+1452606885.index
+3413725848.index
+1865797976.index
+3999148266.index
+3907048885.index
+320674971.index
